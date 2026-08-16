@@ -1,4 +1,4 @@
-# Data Refinery
+Data Refinery
 
 This project focuses on cleaning the Students Performance Dataset and checking its quality before further analysis.
 
