@@ -1,6 +1,6 @@
 Greedy Algorithms
-A greedy algorithm makes the best available choice at each step with the goal of obtaining an optimal overall result.
 
+A greedy algorithm makes the best available choice at each step with the goal of obtaining an optimal overall result.
 For both problems, the best choice helps preserve resources for future decisions.
 
 Problems Solved
