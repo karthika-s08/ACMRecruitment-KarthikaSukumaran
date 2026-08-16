@@ -49,5 +49,5 @@ Both solutions were successfully submitted and accepted on LeetCode.
 
 Files
 palindrome_number.png — Accepted LeetCode submission for Palindrome Number.
-integer_to_roman.png — Accepted LeetCode submission for Integer to Roman.
+integer_roman.png — Accepted LeetCode submission for Integer to Roman.
 algorithm_explanation.jpg — Handwritten explanation containing the reasoning, algorithms, alternative approaches, and complexity analysis for both problems.
