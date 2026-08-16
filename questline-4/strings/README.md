@@ -28,4 +28,4 @@ Files
 
 valid_palindrome.png — Accepted LeetCode submission for Valid Palindrome.
 zigzag_conversion.png — Accepted LeetCode submission for Zigzag Conversion.
-algorithm_explanation.jpg — Handwritten algorithm explanation for both problems.
+algorithm__explanation_1 and 2.jpeg — Handwritten algorithm explanation for both problems.
