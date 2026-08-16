@@ -47,5 +47,7 @@ Both solutions were successfully submitted and accepted on LeetCode.
 
 Files
 lemonade_change.png — Accepted LeetCode submission for Lemonade Change.
+
 assign_cookies.png — Accepted LeetCode submission for Assign Cookies.
+
 algorithm_explanation_1.jpeg to algorithm_explanation_4.jpeg — Handwritten algorithm explanation.
